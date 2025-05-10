@@ -3,7 +3,7 @@
 ## Introdução 📌
 Este projeto de estudo aborda a crescente demanda de uma empresa fictícia por notebooks adequados para a equipe de desenvolvimento/programação. 
 Diante da necessidade de uma decisão de compra informada, o setor de analytics identificou a importância de realizar uma análise de mercado detalhada. 
-Para isso, desenvolvemos um processo de web scraping no site da Saldão da Informática (https://www.saldaodainformatica.com.br/notebook), um fornecedor já conhecido da empresa, 
+Para isso, desenvolvemos um processo de web scraping no site da Saldão da Informática https://www.saldaodainformatica.com.br/notebook, um fornecedor já conhecido da empresa, 
 com o objetivo de coletar dados relevantes para a criação de um dashboard de indicadores-chave de desempenho (KPIs).
 
 ## Objetivos 💻🛒
