@@ -39,6 +39,11 @@ ele capacita a equipe de analytics a realizar uma análise robusta e o CEO a tom
 * Dbeaver
 * Vscode
 
+## Dicas Importantes 💡
+* Comece procurando os elementos dentro do HTML do site através do scrapy shell
+* Scrapy crawl "nome do seu arquivo spider" -o data.json, para rodar o script e verificar as informações
+* streamlit run "caminho do seu arquivo .py" para visualizar o dashboard
+
 ## Referências 📚
 * https://www.youtube.com/live/aKanijqe5SQ?si=kEicSxy_6VUnkuMO
 * https://docs.scrapy.org/en/latest/intro/tutorial.html
